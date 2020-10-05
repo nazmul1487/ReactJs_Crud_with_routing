@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Nazmul",
+      "username": "nazmul87",
+      "email": "nazmulhasannoman111@gmail.com",
+      "phone": "01741",
+      "website": "nazmul.com",
+      "id": 1
+    },
+    {
+      "name": "Milon",
+      "username": "milon15",
+      "email": "milon@gmail.com",
+      "phone": "012234",
+      "website": "milon.com",
+      "id": 2
+    },
+    {
+      "name": "Fakhrul",
+      "username": "fakrul1",
+      "email": "fakrul@gmail.com",
+      "phone": "02345",
+      "website": "fakrul.net",
+      "id": 3
+    }
+  ]
+}
