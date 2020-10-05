@@ -23,6 +23,30 @@
       "phone": "02345",
       "website": "fakrul.net",
       "id": 3
+    },
+    {
+      "name": "Rjorjinal shanto",
+      "username": "shanto",
+      "email": "shanto@gmail.com",
+      "phone": "02345",
+      "website": "shanto.net",
+      "id": 4
+    },
+    {
+      "name": "Mithu",
+      "username": "Mithu1",
+      "email": "mithu@gmail.com",
+      "phone": "02345",
+      "website": "abc.com",
+      "id": 5
+    },
+    {
+      "name": "shohan",
+      "username": "shohan2",
+      "email": "shohan@gmail.com",
+      "phone": "012234",
+      "website": "abc.com",
+      "id": 6
     }
   ]
 }
